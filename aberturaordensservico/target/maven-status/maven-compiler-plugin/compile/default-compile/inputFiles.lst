@@ -1,0 +1,10 @@
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\AberturaordensservicoApplication.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\controller\EquipamentoController.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\controller\OrdenServicosController.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\exception\ValidacaoExceptionHandler.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\model\Equipamento.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\model\Setor.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\repository\EquipamentoRepository.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\repository\SetorRepository.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\service\EquipamentoService.java
+C:\Users\thanu\OneDrive\Desktop\Prova\aberturaordensservico\src\main\java\br\com\ordensservico\aberturaordensservico\service\SetorService.java

@@ -1,0 +1,10 @@
+br\com\ordensservico\aberturaordensservico\repository\EquipamentoRepository.class
+br\com\ordensservico\aberturaordensservico\service\EquipamentoService.class
+br\com\ordensservico\aberturaordensservico\controller\EquipamentoController.class
+br\com\ordensservico\aberturaordensservico\repository\SetorRepository.class
+br\com\ordensservico\aberturaordensservico\model\Setor.class
+br\com\ordensservico\aberturaordensservico\AberturaordensservicoApplication.class
+br\com\ordensservico\aberturaordensservico\model\Equipamento.class
+br\com\ordensservico\aberturaordensservico\service\SetorService.class
+br\com\ordensservico\aberturaordensservico\exception\ValidacaoExceptionHandler.class
+br\com\ordensservico\aberturaordensservico\controller\OrdenServicosController.class
